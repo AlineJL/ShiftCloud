@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268049510427",
+    "firebase_url": "https://shift-f1368.firebaseio.com",
+    "project_id": "shift-f1368",
+    "storage_bucket": "shift-f1368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268049510427:android:af8df6204de98c85",
+        "android_client_info": {
+          "package_name": "br.com.alinelopes.shiftcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268049510427-g1krv7gp5o2bhm7u93i5l5i9vqcsdo8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQmqyXvsGwIPbkHb8XhaGnuF19_MlV3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
