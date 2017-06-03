@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         rvCarros= (RecyclerView) findViewById(R.id.rvCarros);
         spFabricante = (Spinner) findViewById(R.id.spFabricante);
         etModels= (EditText) findViewById(R.id.etModelo);
-        btAdd= (Button) findViewById(R.id.btApagar);
+        btAdd= (Button) findViewById(R.id.btAdd);
 
         btAdd.setOnClickListener(new View.OnClickListener(){
             public void  onClick(View v){
